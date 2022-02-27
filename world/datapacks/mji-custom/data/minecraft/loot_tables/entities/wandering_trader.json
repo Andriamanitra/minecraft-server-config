@@ -29,7 +29,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:gold_shovel",
+          "name": "minecraft:golden_shovel",
           "weight": 1,
           "functions": [
             {
