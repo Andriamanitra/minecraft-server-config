@@ -71,7 +71,7 @@
         },
         {
           "type": "item",
-          "weight": 100,
+          "weight": 2,
           "name": "minecraft:flint_and_steel",
           "functions": [
             {
