@@ -9,7 +9,7 @@ trading or enchanting) to encourage exploration and caving:
 
 * Rare jungle temple loot: Sharpness X book
 
-* Warden drops: Reinforced deepslate (common), Unbreaking X book (rare, only on player kill)
+* Allay drops: Unbreaking X book (rare, only on player kill)
 
 * Bat drops: Elytra (rare, only on player kill)
 
