@@ -42,6 +42,15 @@ $ docker run --detach --interactive --tty --name minecraft -p 25565:25565 --volu
   `--env JAVA_OPTS="-Xmx8G -Xms8G"` to the last command.
 
 
+## Notes for updating to new Minecraft versions
+
+1. Find the latest Fabric server download: https://fabricmc.net/use/server/
+1. Find the latest Fabric API version: https://github.com/FabricMC/fabric/releases
+1. Find the latest version of Carpet mod: https://github.com/gnembon/fabric-carpet/releases
+1. Update `Dockerfile` with URLs to the latest versions
+1. `docker build` a new image, test that it works, remember to commit changes
+
+
 ## TODO:
 
 Make a nice docker compose file to make configuration even easier
